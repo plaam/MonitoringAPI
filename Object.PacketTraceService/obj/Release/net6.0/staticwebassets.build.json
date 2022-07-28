@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QG727wzAj3R8Yn69xJ1o/WYlsQplwiI2OiG7WmSvs9c=",
+  "Source": "Object.PacketTraceService",
+  "BasePath": "_content/Object.PacketTraceService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

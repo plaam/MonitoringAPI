@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "reiPIercE1vcpPTo23JNKCLFDSU5zSUr1p6zwul207g=",
+  "Source": "Object.Monitoring",
+  "BasePath": "_content/Object.Monitoring",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Coding snippets\\C#\\MonitoringAPI\\Object.DatabaseService\\Object.DatabaseService.csproj",
+      "Version": 2,
+      "Source": "Object.DatabaseService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
